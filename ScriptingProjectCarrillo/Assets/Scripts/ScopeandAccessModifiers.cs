@@ -7,8 +7,7 @@ public class ScopeandAccessModifiers : MonoBehaviour
     public int alpha = 5;
 
 
-    private int beta = 0;
-    private int gamma = 5;
+   
 
 
 
