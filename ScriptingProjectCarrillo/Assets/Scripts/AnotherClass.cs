@@ -24,7 +24,7 @@ public class AnotherClass : MonoBehaviour
     {
         int answer;
         answer = a + b;
-        Debug.Log("Office s=Supplies total: " + answer);
+        Debug.Log("Office Supplies total: " + answer);
 
     }
 
