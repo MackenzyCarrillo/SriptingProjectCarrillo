@@ -8,7 +8,7 @@ public static class ExtensionMethods
     {
         transform.position = Vector3.zero;
         transform.localRotation = Quaternion.identity;  
-        transform.localScale = Vector3.one; 
+        transform.localScale = new Vector3(2,2,2); 
 
     }
     
